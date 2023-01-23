@@ -1,0 +1,28 @@
+.planet-item-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.heading {
+  font-family: Roboto;
+  font-size: 45px;
+  color: #05acff;
+}
+
+.planet-item-container img {
+  width: 40%;
+}
+.name {
+  font-family: Roboto;
+  font-size: 20px;
+  color: #f8fafc;
+  font-weight: bold;
+}
+.planet-item-container p {
+  font-family: Roboto;
+  font-size: 15px;
+  color: #f1f5f9;
+  font-weight: bold;
+  text-align: center;
+  width: 600px;
+}
